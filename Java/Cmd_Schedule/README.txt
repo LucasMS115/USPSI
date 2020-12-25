@@ -1,0 +1,1 @@
+Practicing some basic object-oriented features with Java and MySql.

@@ -1,0 +1,1 @@
+As instrucoes para este EP estao em "ep2_enunciado.pdf", o arquivo pricipal é "./testeEPAED/filapreferencial.c"

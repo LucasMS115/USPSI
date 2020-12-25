@@ -1,0 +1,2 @@
+Done in the first semester, this project was a testing version of a gamified task manager using Java and MySql.
+The purpose of the activity was to build a fully functional application from scratch. It, propably, isn't a good example of nothing.
